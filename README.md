@@ -44,12 +44,9 @@ $ hugo server --themesDir ../..
 
 Or Check out [Full Documentation](https://docs.gethugothemes.com/liva/?ref=github).
 
-## 🐞Reporting Issues
+## 🐞Feedback / Issues
 
-We use GitHub Issues as the official bug tracker for the liva Template. Please Search [existing
-issues](https://github.com/gethugothemes/liva-hugo/issues). Someone may have already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/gethugothemes/liva-hugo/issues).
+If you have any feedback, please reach out to us at @rocksonu12345@gmail.com
 
 ## 🙏Special Thanks
 
