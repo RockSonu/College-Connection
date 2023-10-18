@@ -11,7 +11,7 @@ Developed a dynamic blogging website, "College Connection," aimed at facilitatin
 - Light/dark mode toggle
 - Live previews
 - Fullscreen mode
-- Cross platform
+- Cross-platform
 
 ## 📄 Pre-Designed Pages
 
@@ -73,5 +73,4 @@ If you have any feedback, please reach out to us at @rocksonu12345@gmail.com
 [![Google-Fonts](https://img.shields.io/badge/Google-Fonts-8C4FFF.svg?style=for-the-badge&logo=adobefonts&logoColor=white)](https://getbootstrap.com/)
 
 - [All Contributors](https://github.com/gethugothemes/liva-hugo/graphs/contributors)
-
 
