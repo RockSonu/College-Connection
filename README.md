@@ -72,5 +72,6 @@ If you have any feedback, please reach out to us at @rocksonu12345@gmail.com
 
 [![Google-Fonts](https://img.shields.io/badge/Google-Fonts-8C4FFF.svg?style=for-the-badge&logo=adobefonts&logoColor=white)](https://getbootstrap.com/)
 
-- [All Contributors]()
+[![All Contributors](https://img.shields.io/badge/All-Contributors-#0B996E.svg?style=for-the-badge&logo=bitrise&logoColor=white)](https://getbootstrap.com/)
+- []()
 
