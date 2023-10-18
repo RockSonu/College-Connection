@@ -36,13 +36,11 @@ Utilized the MERN (MongoDB, Express.js, React, Node.js) stack for a robust and r
 https://github.com/RockSonu/College-Connection.git
 
 # cd in the project directory
-$ cd liva-hugo/exampleSite/
+$ cd College-Connection/src/
 
-# Start local dev server
-$ hugo server --themesDir ../..
+# Start local server
+$ npm start
 ```
-
-Or Check out [Full Documentation](https://docs.gethugothemes.com/liva/?ref=github).
 
 ## 🐞Feedback / Issues
 
