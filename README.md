@@ -8,8 +8,8 @@ Developed a dynamic blogging website, "College Connection," aimed at facilitatin
 
 ## 🏆 Features
 
-- Light/dark mode toggle
-- Live previews
+- Simple Design
+- Easy To use 
 - Fullscreen mode
 - Cross-platform
 
