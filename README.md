@@ -33,7 +33,7 @@ Utilized the MERN (MongoDB, Express.js, React, Node.js) stack for a robust and r
 
 ```bash
 # clone the repository
-git clone git@github.com:gethugothemes/liva-hugo.git
+https://github.com/RockSonu/College-Connection.git
 
 # cd in the project directory
 $ cd liva-hugo/exampleSite/
