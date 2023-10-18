@@ -2,8 +2,9 @@
 #### Description:
 Developed a dynamic blogging website, "College Connection," aimed at facilitating communication among college students. The website provides a platform for students to share academic resources, and personal experiences, and connect with peers.
 #### Technology Stack: 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
-Utilized the MERN (MongoDB, Express.js, React, Node.js) stack for a robust and responsive application.
+
+[![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://github.com/facebook/create-react-app) [![Redux](https://img.shields.io/badge/redux-8C4FFF.svg?style=for-the-badge&logo=redux&logoColor=black)](https://redux.js.org/) [![Redux](https://img.shields.io/badge/redux-toolkit-DA552F.svg?style=for-the-badge&logo=reduxsaga&logoColor=black)](https://redux-toolkit.js.org/)
+ [![Bootstrap](https://img.shields.io/badge/redux-8C4FFF.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-DDE072.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/) [![Express](https://img.shields.io/badge/Express.js-21759B.svg?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com/) [![Node js](https://img.shields.io/badge/Node.js-F44A6A.svg?style=for-the-badge&logo=tsnode&logoColor=black)](https://expressjs.com/)
 
 ## 🔑 Features
 - 📄 7+ Pre-Designed Pages
