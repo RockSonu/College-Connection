@@ -1,3 +1,7 @@
+## College Connection Blogging Website
+#### Description: Developed a dynamic blogging website, "College Connection," aimed at facilitating communication among college students. The website provides a platform for students to share academic resources, personal experiences, and connect with peers.
+#### Technology Stack: Utilized the MERN (MongoDB, Express.js, React, Node.js) stack for a robust and responsive application.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
